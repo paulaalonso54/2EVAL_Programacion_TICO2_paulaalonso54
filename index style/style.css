@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    align-content: center;
+}
+h1{
+    color: black;
+    background-color:aliceblue;
+    font-size: larger;
+    font-style: oblique;
+    border: 5px rgb(135, 250, 211) dashed;
+    border-radius: 15%;
+
+}
